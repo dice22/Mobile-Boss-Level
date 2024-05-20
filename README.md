@@ -1,2 +1,2 @@
-# Mobile-Boss-Level
-Final project for Mobile App Design class
+# 371FinalProject
+Final Project for CS 371- intro to mobile computing
