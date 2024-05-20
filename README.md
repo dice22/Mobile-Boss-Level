@@ -1,2 +1,2 @@
-# 371FinalProject
-Final Project for CS 371- intro to mobile computing
+# boss final
+Final Project for mobile computing project. Group assignment
